@@ -1,0 +1,4 @@
+,order_id,amount,customer_id
+0,T01,100.0,C01
+1,T02,,C02
+2,T03,200.0,
